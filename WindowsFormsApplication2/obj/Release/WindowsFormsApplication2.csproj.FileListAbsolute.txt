@@ -1,0 +1,20 @@
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\FTPFileMover.exe.config
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\FTPFileMover.exe
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\FTPFileMover.pdb
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\FTPFileMover.Properties.Resources.resources
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\FTPFileMover.exe
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\FTPFileMover.pdb
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v1 FTPFileMover\WindowsFormsApplication2\bin\Release\FTPFileMover.exe.config
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v1 FTPFileMover\WindowsFormsApplication2\bin\Release\FTPFileMover.exe
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v1 FTPFileMover\WindowsFormsApplication2\bin\Release\FTPFileMover.pdb
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v1 FTPFileMover\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v1 FTPFileMover\WindowsFormsApplication2\obj\Release\FTPFileMover.Form3.resources
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v1 FTPFileMover\WindowsFormsApplication2\obj\Release\FTPFileMover.Properties.Resources.resources
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v1 FTPFileMover\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v1 FTPFileMover\WindowsFormsApplication2\obj\Release\FTPFileMover.exe
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v1 FTPFileMover\WindowsFormsApplication2\obj\Release\FTPFileMover.pdb
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v2 FTPFileMover\WindowsFormsApplication2\bin\Release\FTPFileMover.exe.config
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v2 FTPFileMover\WindowsFormsApplication2\obj\Release\FTPFileMover.exe
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v2 FTPFileMover\WindowsFormsApplication2\obj\Release\FTPFileMover.pdb

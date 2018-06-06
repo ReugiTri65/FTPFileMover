@@ -1,0 +1,214 @@
+Done passing files 
+0 files passed
+Done passing files 
+0 files passed
+Done passing files 
+0 files passed
+5/31/2018 10:34:29 AMDone passing files 
+0 files passed
+5/31/2018 10:35:00 AM Done passing files 
+0 files passed
+5/31/2018 10:35:16 AM Done passing files 
+18 files passed
+5/31/2018 10:35:27 AM Done passing files 
+18 files passed
+5/31/2018 10:35:29 AM Done passing files 
+18 files passed
+5/31/2018 10:35:36 AM Done passing files 
+18 files passed
+5/31/2018 10:35:39 AM Done passing files 
+18 files passed
+5/31/2018 10:35:39 AM Done passing files 
+18 files passed
+5/31/2018 10:35:39 AM Done passing files 
+18 files passed
+5/31/2018 10:35:41 AM Done passing files 
+18 files passed
+5/31/2018 10:35:42 AM Done passing files 
+18 files passed
+5/31/2018 10:35:42 AM Done passing files 
+18 files passed
+5/31/2018 10:35:42 AM Done passing files 
+18 files passed
+5/31/2018 10:35:42 AM Done passing files 
+18 files passed
+5/31/2018 10:35:50 AM Done passing files 
+18 files passed
+5/31/2018 10:35:50 AM Done passing files 
+18 files passed
+5/31/2018 10:35:51 AM Done passing files 
+18 files passed
+5/31/2018 10:35:51 AM Done passing files 
+18 files passed
+5/31/2018 10:35:51 AM Done passing files 
+18 files passed
+5/31/2018 10:35:59 AM Done passing files 
+0 files passed
+5/31/2018 10:36:46 AM Done passing files 
+9 files passed
+5/31/2018 10:36:55 AM Done passing files 
+16 files passed
+5/31/2018 10:37:04 AM Done passing files 
+23 files passed
+5/31/2018 10:37:15 AM Done passing files 
+32 files passed
+5/31/2018 10:38:12 AM Done passing files 
+8 files passed
+5/31/2018 10:38:18 AM Done passing files 
+9 files passed
+5/31/2018 10:38:25 AM Done passing files 
+8 files passed
+5/31/2018 10:38:32 AM Done passing files 
+9 files passed
+5/31/2018 10:39:45 AM 0 files passed
+5/31/2018 10:40:03 AM 9 files passed
+5/31/2018 10:40:10 AM 8 files passed
+5/31/2018 10:40:15 AM 4 files passed
+5/31/2018 10:52:38 AM 9 files passed
+5/31/2018 10:56:13 AM 0 files passed
+5/31/2018 10:56:21 AM 9 files passed
+5/31/2018 11:16:01 AM 0 files passed
+5/31/2018 3:05:03 PM 1 files passed
+5/31/2018 3:05:05 PM 0 files passed
+5/31/2018 3:05:06 PM 0 files passed
+5/31/2018 3:38:32 PM 48 files passed
+5/31/2018 3:39:05 PM 0 files passed
+5/31/2018 3:46:14 PM 878 files passed
+5/31/2018 4:51:28 PM 0 files passed
+5/31/2018 4:52:31 PM 0 files passed
+5/31/2018 4:54:16 PM 0 files passed
+5/31/2018 4:57:06 PM 0 files passed
+5/31/2018 5:03:17 PM 0 files passed
+5/31/2018 5:18:12 PM 0 files passed
+5/31/2018 5:19:55 PM 878 files passed
+5/31/2018 5:23:24 PM 0 files passed
+5/31/2018 5:24:09 PM 0 files passed
+5/31/2018 5:28:31 PM 0 files passed
+5/31/2018 5:29:12 PM 0 files passed
+5/31/2018 5:29:32 PM 0 files passed
+5/31/2018 5:30:51 PM 0 files passed
+5/31/2018 5:31:07 PM 0 files passed
+5/31/2018 5:38:56 PM 452 files passed
+5/31/2018 5:47:16 PM 878 files passed
+5/31/2018 5:48:36 PM 27 files passed
+5/31/2018 5:51:25 PM 0 files passed
+5/31/2018 5:52:45 PM 0 files passed
+6/1/2018 9:28:53 AM 2 files passed
+6/1/2018 9:29:32 AM 2 files passed
+6/1/2018 9:30:09 AM 0 files passed
+6/1/2018 9:30:52 AM 0 files passed
+6/1/2018 9:30:55 AM 0 files passed
+6/1/2018 9:31:18 AM 0 files passed
+6/1/2018 9:31:35 AM 0 files passed
+6/1/2018 9:31:59 AM 0 files passed
+6/1/2018 9:47:19 AM 0 files passed
+6/1/2018 10:08:49 AM 0 files passed
+6/1/2018 10:11:51 AM 0 files passed
+6/1/2018 10:12:17 AM 0 files passed
+6/1/2018 10:14:31 AM 0 files passed
+6/1/2018 10:15:21 AM 2 files passed
+6/1/2018 10:16:45 AM 2 files passed
+6/1/2018 10:26:48 AM 2 files passed
+6/1/2018 10:27:53 AM 46 files passed
+6/1/2018 10:28:06 AM 46 files passed
+6/1/2018 10:29:05 AM 968 files passed
+6/1/2018 10:32:19 AM 50 files passed
+6/1/2018 10:33:11 AM 50 files passed
+6/1/2018 10:34:39 AM 50 files passed
+6/1/2018 10:35:28 AM 50 files passed
+6/1/2018 10:37:05 AM 0 files passed
+6/1/2018 10:37:55 AM 50 files passed
+6/1/2018 10:37:55 AM 0 files passed
+6/1/2018 10:42:24 AM 0 files passed
+6/1/2018 10:42:27 AM 0 files passed
+6/1/2018 10:43:22 AM 50 files passed
+6/1/2018 10:44:25 AM 0 files passed
+6/1/2018 10:44:41 AM 0 files passed
+6/1/2018 11:53:46 AM 0 files passed
+6/1/2018 12:01:02 PM 0 files passed
+6/1/2018 12:04:56 PM 50 files passed
+6/1/2018 12:06:50 PM 50 files passed
+6/1/2018 12:08:38 PM 0 files passed
+6/1/2018 12:10:25 PM 0 files passed
+6/1/2018 12:10:49 PM 0 files passed
+6/1/2018 12:11:14 PM 0 files passed
+6/1/2018 12:12:03 PM 0 files passed
+6/1/2018 12:12:46 PM 0 files passed
+6/1/2018 12:13:18 PM 0 files passed
+6/1/2018 12:13:49 PM 0 files passed
+6/1/2018 12:15:43 PM 0 files passed
+6/1/2018 12:17:35 PM 0 files passed
+6/1/2018 12:18:43 PM 0 files passed
+6/1/2018 12:33:03 PM 50 files passed
+6/1/2018 12:34:59 PM 50 files passed
+6/1/2018 12:35:38 PM 6 files passed
+6/1/2018 12:36:09 PM 10 files passed
+6/1/2018 12:36:59 PM 6 files passed
+6/1/2018 12:37:25 PM 7 files passed
+6/1/2018 12:38:56 PM 6 files passed
+6/1/2018 12:39:44 PM 6 files passed
+6/1/2018 12:40:33 PM 9 files passed
+6/1/2018 12:41:38 PM 12 files passed
+6/1/2018 12:41:44 PM 7 files passed
+6/1/2018 12:41:54 PM 7 files passed
+6/1/2018 12:42:05 PM 13 files passed
+6/1/2018 12:42:18 PM 14 files passed
+6/1/2018 12:42:28 PM 13 files passed
+6/1/2018 12:42:42 PM 7 files passed
+6/1/2018 12:42:57 PM 11 files passed
+6/1/2018 12:45:31 PM 0 files passed
+6/1/2018 12:45:43 PM 0 files passed
+6/1/2018 12:47:29 PM 0 files passed
+6/1/2018 12:47:59 PM 0 files passed
+6/1/2018 1:38:27 PM 23 files passed
+6/1/2018 1:48:54 PM 14 files passed
+6/1/2018 1:50:10 PM 30 files passed
+6/1/2018 1:51:49 PM 33 files passed
+6/1/2018 1:57:28 PM 50 files passed
+6/1/2018 1:59:13 PM 50 files passed
+6/1/2018 2:00:32 PM 0 files passed
+6/1/2018 2:00:35 PM 0 files passed
+6/1/2018 2:00:36 PM 0 files passed
+6/1/2018 2:00:37 PM 0 files passed
+6/1/2018 2:00:40 PM 0 files passed
+6/1/2018 2:00:42 PM 0 files passed
+6/1/2018 2:01:22 PM 0 files passed
+6/1/2018 2:01:23 PM 0 files passed
+6/1/2018 2:01:24 PM 0 files passed
+6/1/2018 2:01:24 PM 0 files passed
+6/1/2018 2:01:25 PM 0 files passed
+6/1/2018 2:01:25 PM 0 files passed
+6/1/2018 2:03:41 PM 0 files passed
+6/1/2018 2:03:41 PM 0 files passed
+6/1/2018 2:03:42 PM 0 files passed
+6/1/2018 2:03:42 PM 0 files passed
+6/1/2018 2:03:43 PM 0 files passed
+6/1/2018 2:04:54 PM 0 files passed
+6/1/2018 2:05:47 PM 0 files passed
+6/1/2018 2:05:49 PM 0 files passed
+6/1/2018 2:05:52 PM 0 files passed
+6/1/2018 2:05:53 PM 0 files passed
+6/1/2018 2:39:15 PM 8 files passed
+6/1/2018 6:44:02 PM 14 files passed
+6/1/2018 6:44:46 PM 14 files passed
+6/1/2018 6:46:18 PM 28 files passed
+6/1/2018 6:46:37 PM 28 files passed
+6/1/2018 6:50:04 PM 28 files passed
+6/1/2018 6:51:10 PM 28 files passed
+6/1/2018 6:54:31 PM 28 files passed
+6/1/2018 6:55:36 PM 28 files passed
+6/1/2018 6:57:25 PM 28 files passed
+6/1/2018 6:58:14 PM 28 files passed
+6/1/2018 7:13:45 PM 28 files passed
+6/1/2018 7:16:03 PM 0 files passed
+6/1/2018 7:19:35 PM 28 files passed
+6/1/2018 7:25:42 PM 28 files passed
+6/4/2018 11:33:49 AM 28 files passed
+6/4/2018 11:37:46 AM 28 files passed
+6/4/2018 11:38:18 AM 0 files passed
+6/4/2018 11:38:52 AM 0 files passed
+6/4/2018 11:46:39 AM 28 files passed
+6/4/2018 11:47:07 AM 28 files passed
+6/4/2018 11:47:32 AM 28 files passed
+6/4/2018 11:54:44 AM 28 files passed
+6/4/2018 11:55:15 AM 28 files passed

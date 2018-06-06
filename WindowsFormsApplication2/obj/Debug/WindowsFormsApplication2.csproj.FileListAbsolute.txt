@@ -1,0 +1,103 @@
+c:\users\tekno3\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\tekno3\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\tekno3\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\FTPFileMover\WindowsFormsApplication2\bin\Debug\FTPFileMover.exe.config
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\FTPFileMover\WindowsFormsApplication2\bin\Debug\FTPFileMover.exe
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\FTPFileMover\WindowsFormsApplication2\bin\Debug\FTPFileMover.pdb
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\FTPFileMover\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\FTPFileMover\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\FTPFileMover\WindowsFormsApplication2\obj\Debug\FTPFileMover.Properties.Resources.resources
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\FTPFileMover\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\FTPFileMover\WindowsFormsApplication2\obj\Debug\FTPFileMover.exe
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\FTPFileMover\WindowsFormsApplication2\obj\Debug\FTPFileMover.pdb
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\FTPFileMover.exe.config
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\FTPFileMover.exe
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\FTPFileMover.pdb
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\FTPFileMover.exe
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\FTPFileMover.pdb
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\FTPFileMover.Properties.Resources.resources
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v1 FTPFileMover\WindowsFormsApplication2\bin\Debug\FTPFileMover.exe.config
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v1 FTPFileMover\WindowsFormsApplication2\obj\Debug\FTPFileMover.exe
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v1 FTPFileMover\WindowsFormsApplication2\obj\Debug\FTPFileMover.pdb
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v1 FTPFileMover\WindowsFormsApplication2\bin\Debug\FTPFileMover.exe
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v1 FTPFileMover\WindowsFormsApplication2\bin\Debug\FTPFileMover.pdb
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v1 FTPFileMover\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v1 FTPFileMover\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v1 FTPFileMover\WindowsFormsApplication2\obj\Debug\FTPFileMover.Properties.Resources.resources
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v1 FTPFileMover\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v1 FTPFileMover\WindowsFormsApplication2\obj\Debug\FTPFileMover.Form3.resources
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v2 FTPFileMover\WindowsFormsApplication2\bin\Debug\FTPFileMover.exe.config
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v2 FTPFileMover\WindowsFormsApplication2\obj\Debug\FTPFileMover.exe
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v2 FTPFileMover\WindowsFormsApplication2\obj\Debug\FTPFileMover.pdb
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v2 FTPFileMover\WindowsFormsApplication2\bin\Debug\FTPFileMover.exe
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v2 FTPFileMover\WindowsFormsApplication2\bin\Debug\FTPFileMover.pdb
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v2 FTPFileMover\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v2 FTPFileMover\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v2 FTPFileMover\WindowsFormsApplication2\obj\Debug\FTPFileMover.Form3.resources
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v2 FTPFileMover\WindowsFormsApplication2\obj\Debug\FTPFileMover.Properties.Resources.resources
+C:\Users\Tekno3\Documents\Visual Studio 2015\Projects\05-31-18v2 FTPFileMover\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\05-31-18v2 FTPFileMover\WindowsFormsApplication2\bin\Debug\FTPFileMover.exe.config
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\05-31-18v2 FTPFileMover\WindowsFormsApplication2\obj\Debug\FTPFileMover.exe
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\05-31-18v2 FTPFileMover\WindowsFormsApplication2\obj\Debug\FTPFileMover.pdb
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\05-31-18v2 FTPFileMover\WindowsFormsApplication2\bin\Debug\FTPFileMover.exe
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\05-31-18v2 FTPFileMover\WindowsFormsApplication2\bin\Debug\FTPFileMover.pdb
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\05-31-18v2 FTPFileMover\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\05-31-18v2 FTPFileMover\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\05-31-18v2 FTPFileMover\WindowsFormsApplication2\obj\Debug\FTPFileMover.Form3.resources
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\05-31-18v2 FTPFileMover\WindowsFormsApplication2\obj\Debug\FTPFileMover.Properties.Resources.resources
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\05-31-18v2 FTPFileMover\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v1 FTPFileMover\WindowsFormsApplication2\bin\Debug\FTPFileMover.exe.config
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v1 FTPFileMover\WindowsFormsApplication2\bin\Debug\FTPFileMover.exe
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v1 FTPFileMover\WindowsFormsApplication2\bin\Debug\FTPFileMover.pdb
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v1 FTPFileMover\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v1 FTPFileMover\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v1 FTPFileMover\WindowsFormsApplication2\obj\Debug\FTPFileMover.Form3.resources
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v1 FTPFileMover\WindowsFormsApplication2\obj\Debug\FTPFileMover.Properties.Resources.resources
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v1 FTPFileMover\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v1 FTPFileMover\WindowsFormsApplication2\obj\Debug\FTPFileMover.exe
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v1 FTPFileMover\WindowsFormsApplication2\obj\Debug\FTPFileMover.pdb
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v2 FTPFileMover\WindowsFormsApplication2\bin\Debug\FTPFileMover.exe.config
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v2 FTPFileMover\WindowsFormsApplication2\bin\Debug\FTPFileMover.exe
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v2 FTPFileMover\WindowsFormsApplication2\bin\Debug\FTPFileMover.pdb
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v2 FTPFileMover\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v2 FTPFileMover\WindowsFormsApplication2\obj\Debug\FTPFileMover.Form3.resources
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v2 FTPFileMover\WindowsFormsApplication2\obj\Debug\FTPFileMover.Properties.Resources.resources
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v2 FTPFileMover\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v2 FTPFileMover\WindowsFormsApplication2\obj\Debug\FTPFileMover.exe
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v2 FTPFileMover\WindowsFormsApplication2\obj\Debug\FTPFileMover.pdb
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v3 FTPFileMover\WindowsFormsApplication2\bin\Debug\FTPFileMover.exe.config
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v3 FTPFileMover\WindowsFormsApplication2\bin\Debug\FTPFileMover.exe
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v3 FTPFileMover\WindowsFormsApplication2\bin\Debug\FTPFileMover.pdb
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v3 FTPFileMover\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v3 FTPFileMover\WindowsFormsApplication2\obj\Debug\FTPFileMover.Form3.resources
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v3 FTPFileMover\WindowsFormsApplication2\obj\Debug\FTPFileMover.Properties.Resources.resources
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v3 FTPFileMover\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v3 FTPFileMover\WindowsFormsApplication2\obj\Debug\FTPFileMover.exe
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v3 FTPFileMover\WindowsFormsApplication2\obj\Debug\FTPFileMover.pdb
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v4 FTPFileMover - working thread\WindowsFormsApplication2\bin\Debug\FTPFileMover.exe.config
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v4 FTPFileMover - working thread\WindowsFormsApplication2\bin\Debug\FTPFileMover.exe
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v4 FTPFileMover - working thread\WindowsFormsApplication2\bin\Debug\FTPFileMover.pdb
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v4 FTPFileMover - working thread\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v4 FTPFileMover - working thread\WindowsFormsApplication2\obj\Debug\FTPFileMover.Form3.resources
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v4 FTPFileMover - working thread\WindowsFormsApplication2\obj\Debug\FTPFileMover.Properties.Resources.resources
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v4 FTPFileMover - working thread\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v4 FTPFileMover - working thread\WindowsFormsApplication2\obj\Debug\FTPFileMover.exe
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v4 FTPFileMover - working thread\WindowsFormsApplication2\obj\Debug\FTPFileMover.pdb
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v5 FTPFileMover - working thread\WindowsFormsApplication2\bin\Debug\FTPFileMover.exe.config
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v5 FTPFileMover - working thread\WindowsFormsApplication2\bin\Debug\FTPFileMover.exe
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v5 FTPFileMover - working thread\WindowsFormsApplication2\bin\Debug\FTPFileMover.pdb
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v5 FTPFileMover - working thread\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v5 FTPFileMover - working thread\WindowsFormsApplication2\obj\Debug\FTPFileMover.Form3.resources
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v5 FTPFileMover - working thread\WindowsFormsApplication2\obj\Debug\FTPFileMover.Properties.Resources.resources
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v5 FTPFileMover - working thread\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v5 FTPFileMover - working thread\WindowsFormsApplication2\obj\Debug\FTPFileMover.exe
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-01-18v5 FTPFileMover - working thread\WindowsFormsApplication2\obj\Debug\FTPFileMover.pdb
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-04-18v1 FTPFileMover - working thread\WindowsFormsApplication2\bin\Debug\FTPFileMover.exe.config
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-04-18v1 FTPFileMover - working thread\WindowsFormsApplication2\bin\Debug\FTPFileMover.exe
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-04-18v1 FTPFileMover - working thread\WindowsFormsApplication2\bin\Debug\FTPFileMover.pdb
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-04-18v1 FTPFileMover - working thread\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-04-18v1 FTPFileMover - working thread\WindowsFormsApplication2\obj\Debug\FTPFileMover.Form3.resources
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-04-18v1 FTPFileMover - working thread\WindowsFormsApplication2\obj\Debug\FTPFileMover.Properties.Resources.resources
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-04-18v1 FTPFileMover - working thread\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-04-18v1 FTPFileMover - working thread\WindowsFormsApplication2\obj\Debug\FTPFileMover.exe
+C:\Users\Teknologika inc\Desktop\FTP Server Setup\06-04-18v1 FTPFileMover - working thread\WindowsFormsApplication2\obj\Debug\FTPFileMover.pdb
